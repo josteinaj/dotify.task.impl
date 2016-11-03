@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>Localization keys for Danish</comment>
+
+	<!--
+		The value of this key is not presented to the user, 
+		instead it informs the consumer of this file which language it is in.
+		Perhaps a bit redundant as that information must already be available
+		somewhere for the file to be selected, but it will do for now.
+	-->
+	<entry key="l10nLang">da</entry>
+		
+	<entry key="l10nrearjacketcopy">Bagsidetekst</entry>
+	<entry key="l10nimagedescription">Billedbeskrivelse</entry>
+	<entry key="l10ncolophon">Tryckuppgifter</entry>
+	<entry key="l10ncaption">Billedtekst</entry>
+	<entry key="l10ntable">Tabell</entry>
+	<entry key="l10ntablepart">Tabelldel</entry>
+	<entry key="l10nTocHeadline">Indhold</entry>
+	<entry key="l10nTocDescription"></entry>
+
+	<entry key="l10nTocVolumeStart">Volym {0}</entry>
+	<entry key="l10nTocVolumeHeading">Indhold volym {0}</entry>
+	<entry key="l10nTocVolumeXofY">Volym {0} av {1}</entry>
+	<entry key="l10nTocOneVolume">En volym</entry>
+	<entry key="l10nEndnotesHeading">Fodnoter til dette volymen</entry>
+	<entry key="l10nEndnotesPageStart">Side {0}</entry>
+	<entry key="l10nEndnotesPageHeader">Slutnoter</entry>
+
+</properties>
